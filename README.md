@@ -4,7 +4,7 @@
 
 This week's challenge was to build a progressive web app that allows the user to create notes or snippets to use offline when the app is downloaded. This was the first time learning and using webpack along side with babel and other different plugins. Figuring out how to set up the database file was one of the initial hurdles of this particular challenge. Luckily there was several useful exercises that I could look back to get a better idea on how to implement certain functions. Towards the tail end of the challenge, launching through heroku proved to be a bit more difficult than I expected, but after a couple of hours of research, documentation reading and previous instructor demos I was able to launch it successfully. There may  be some functionality that I had yet to complete in  the app, howevever it seems to somewhat function.
 
-![](assets/images/.PNG)
+![](Assets/jate.PNG)
 
 Deployed link: https://justanothertexteditorpwa.herokuapp.com/
 
